@@ -5,7 +5,7 @@ A collection of AWS Sagemaker notebooks for training machine learning models wit
 [TuriCreate](https://github.com/apple/turicreate). At the end of each example notebook,
 you will be able to upload a trained [CoreML](https://developer.apple.com/documentation/coreml)
 model to [Skafos.ai](https://skafos.ai) where you can deliver over-the-air to your
-iOS applications. In this repo, we provide three machine learning tasks to get you started.
+iOS applications. In this repo, we provide two machine learning tasks to get you started.
 
 ## Syncing with Sagemaker
 ![Sagemaker Logo](/assets/sagemaker-logo.jpg)
@@ -34,12 +34,6 @@ models.*
 ## Example Models
 Each one of these example models links with an example app on the Skafos platform. You can easily deliver these models to iOS apps over-the-air by creating an account and heading over to https://dashboard.skafos.ai.
 
-### Object Detection
-Detect location and identity of objects within images.
-- [**People, Bikes, and Cars**](ObjectDetection/people_bikes_cars.ipynb)
-- [**Coffee, Pens, and Computers**](ObjectDetection/coffee_pen_computer.ipynb)
-- [**Couches, Chairs, Tables and Beds**](ObjectDetection/couch_chair_table_bed.ipynb)
-
 ### Text Classification
 Classify chunks of user text into different categories.
 - [**Sentiment Classifier**](TextClassification/sentiment_classifier.ipynb)
@@ -51,6 +45,9 @@ Classify images into different categories.
 - [**Dogs and Cats**](ImageClassification/dogs_and_cats.ipynb)
 - [**More Pets**](ImageClassification/more_pets.ipynb)
 - [**Poison Ivy**](ImageClassification/poison_ivy.ipynb)
+
+### Object Detection
+*Coming Soon*
 
 ## Need Help?
 Didn't find something you need? Confused by something? Need more guidance?
