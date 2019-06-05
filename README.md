@@ -1,5 +1,5 @@
 # Skafos Example Models on AWS Sagemaker
-![Skafos Logo](/assets/skafos-logo.png)
+[<img src="https://docs.skafos.ai/assets/main-logo.png" width="40%">](https://skafos.ai)
 
 A collection of AWS Sagemaker notebooks for training machine learning models with
 [TuriCreate](https://github.com/apple/turicreate). At the end of each example notebook,
