@@ -27,6 +27,10 @@ directory when you open your new instance.*
 8. Navigate to one of the example models that interests you and select a kernel from the drop down.
     - If you plan on using a GPU for compute, select the `conda_amazonei_mxnet_p36` kernel
 
+*Lastly, we recommend creating different instances for different models you plan on
+working with. You don't want to mix up training environments/dependencies between
+models.*
+
 ## Example Models
 Each one of these example models links with an example app on the Skafos platform. You can easily deliver these models to iOS apps over-the-air by creating an account and heading over to https://dashboard.skafos.ai.
 
