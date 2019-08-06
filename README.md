@@ -10,7 +10,7 @@ iOS applications. In this repo, we provide two machine learning tasks to get you
 ## Syncing with Sagemaker
 ![Sagemaker Logo](/assets/sagemaker-logo.jpg)
 
-1. Open the Amazon Sagemaker console: https://console.aws.amazon.com.sagemaker
+1. Open the Amazon Sagemaker console: https://console.aws.amazon.com/sagemaker
 2. Choose **Notebook Instances** on the left panel, and then click **Create Notebook Instance**
 3. Fill in all required settings on the **Create Notebook Instance** page. Choose an instance type.
     - If you plan on using a GPU for compute, select one of the `ml.p2.xxxxxx` instances.
